@@ -1,4 +1,4 @@
-# Dashboard Premier League - Data Analysis & Automation
+# Dashboard Premier League ⚽📊 - Data Analysis & Automation
 ![image](https://github.com/user-attachments/assets/32f00521-02ad-45c9-8487-d796f9016b86)
 
 ![image](https://github.com/user-attachments/assets/df7fb9fe-1beb-44b5-a21c-b85b97aa13bb)
