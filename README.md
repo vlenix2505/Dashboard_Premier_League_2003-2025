@@ -60,8 +60,9 @@ This project successfully automates the data pipeline for Premier League statist
 
 ### How to Set Up
 1. Clone the repository.
-2. Configure SQL Server with the required database structure.
-3. Set up the Python environment and install dependencies.
-4. Schedule the Python script to run weekly.
-5. Connect Power BI to the SQL database and configure the gateway for automatic refresh.
+2. Set up the Python environment and install dependencies.
+3. Install the chromedriver according to your platform to configure the driverPath. Follow [this link](https://googlechromelabs.github.io/chrome-for-testing/)
+4. Create an .env file to put your database credential. In this case, I use Windows Authentication.
+5. Schedule the Python script to run weekly.
+6. Connect Power BI to the SQL database and configure the gateway for automatic refresh.
 
