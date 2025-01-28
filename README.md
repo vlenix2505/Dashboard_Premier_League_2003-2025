@@ -7,7 +7,7 @@
 ## Project Background
 This project focuses on analyzing and visualizing Premier League statistics using Power BI. The data is collected through web scraping from ESPN and stored in a SQL Server database. The system is designed to automatically update the data on a weekly basis and refresh the Power BI reports accordingly. The dataset includes Premier League seasons from 2003-22 to the present (2024-25).
 
-You can access the dashboard by this [link](https://app.powerbi.com/view?r=eyJrIjoiYzg5Njk1NWItMDM4Mi00OWZmLThhOTctZGRlNzg3MGJhMzZjIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9&pageName=e18b7136c414b00e0575)  
+You can access the dashboard by [this link](https://app.powerbi.com/view?r=eyJrIjoiYzg5Njk1NWItMDM4Mi00OWZmLThhOTctZGRlNzg3MGJhMzZjIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9&pageName=e18b7136c414b00e0575)  
 
 ## Data Structure
 The SQL Server database **premierLeague** consists of the following key tables:
