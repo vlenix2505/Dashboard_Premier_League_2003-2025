@@ -42,11 +42,11 @@ By the other hand, in Power BI was created the table Measures to save the functi
     - Top final points per season
     - Average position, wins, losses, draws, goal difference, and games played
 - **Automation**:
-  - **Python Execution**: Windows Task Scheduler runs the script every Monday to ensure weekend matches are fully updated.
+  - **Python Execution**: Windows Task Scheduler runs the script every Monday and Wednesday to ensure weekend matches are fully updated.
     
     ![image](https://github.com/user-attachments/assets/8d5cce0b-d710-4c03-a444-f73d00299bce)
 
-  - **Power BI Refresh**: A Power BI Gateway is configured with SQL Server Authentication to refresh the dataset 30 minutes after the Python script execution.
+  - **Power BI Refresh**: A Power BI Gateway is configured with SQL Server Authentication to refresh the dataset 30 minutes after each Python script execution.
 
 ## Conclusion
 This project successfully automates the data pipeline for Premier League statistics, integrating web scraping, database storage, and Power BI reporting. The system enhances efficiency, providing up-to-date insights for analysis and decision-making.
