@@ -44,7 +44,7 @@ By the other hand, in Power BI was created the table Measures to save the functi
 - **Automation**:
   - **Python Execution**: Windows Task Scheduler runs the script every Monday and Wednesday to ensure weekend matches are fully updated.
     
-    ![image](https://github.com/user-attachments/assets/8d5cce0b-d710-4c03-a444-f73d00299bce)
+    ![image](https://github.com/user-attachments/assets/f6677c1e-b83c-4221-a6d6-041ed87c004f)
 
   - **Power BI Refresh**: A Power BI Gateway is configured with SQL Server Authentication to refresh the dataset 30 minutes after each Python script execution.
 
